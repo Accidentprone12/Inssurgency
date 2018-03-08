@@ -1,8 +1,8 @@
 // ---------------------------------------------------------------
 // Server Info Options
 // ---------------------------------------------------------------
-hostname "<Accident>"	// server name
-rcon_password "<>"	// remote rcon passsword
+hostname "Bryans Dildo Barn"	// server name
+rcon_password ""	// remote rcon passsword
 sv_password ""		// Server password, if you want your server to have password only access, insert YourServerAccessPassword
 // ---------------------------------------------------------------
 // Server Download Options (Community made maps) 
@@ -36,4 +36,3 @@ mapcyclefile "mapcycle_tactical_operation.txt"
 //sv_playlist tacticalop
 
 mp_coop_lobbysize 6
-
